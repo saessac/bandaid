@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding:wght@400;700&display=swap');
+
+@import url('./styles/1-head.css');
+@import url('./styles/2-header.css');
+@import url('./styles/3-intro.css');
+@import url('./styles/4-old.css');
+@import url('./styles/5-young.css');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nanum Gothic Coding', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
